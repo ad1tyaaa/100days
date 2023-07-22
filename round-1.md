@@ -13,7 +13,7 @@ Important Topics :
 
 **Final Thought:** I've done C++ before, so this is basically revision. Mostly i only did boring stuff today, but, I'm happy for completing day1. 😌
 
-## day x : dd month yyyy
+## day 2 : 22 july 2023
 
 **Progress :** Revised Operators (including Bitwise that took some time), then moved onto conditional statements, and loops, and finally solved some 10-15 problems (easy ones) on them.
 
