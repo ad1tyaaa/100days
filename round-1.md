@@ -17,7 +17,17 @@ Important Topics :
 
 **Progress :** Revised Operators (including Bitwise that took some time), then moved onto conditional statements, and loops, and finally solved some 10-15 problems (easy ones) on them.
 
-Important Topics : *optional*
+Important Topics :
 - Important Bitwise Operations and their rules and tricks.
 
 **Final Thought:** Hmmm, honestly I feel bad for today's progress. I think I covered quite less than what I intended. I also couldn't really focus very well. I have an important report that I have to work on and I spent most of the time getting scared abut how I'm going to finish it on time. 😢
+
+## day 3 : 23 july 2023
+
+**Progress :** Revised Bitwise Shift Operators (i forgot to study it yesterday), Functions, Memory layout of C, switch statement, and solved a few basic problems of Functions. Solved an easy problem from LeetCode as well.
+
+Important Topics :
+- Result of applying `>>` (right shift operator) on **negative** numbers, (*it makes them positive numebrs*).
+- Memory layout in C / C++.
+
+**Final Thought:** So, today i think I somewhat managed to finished the intended topics, although I counldn't solve coding problems from platforms like LeedCode, etc. I wanted to solve quite a few problems, but, as I sat down for this very late, I'm probably gonna solve problems tomorrow the whole time. I'm still feeling good though, as now I have finally completed Basics of C++, and I can start Data Structures from 25th. 🙃
