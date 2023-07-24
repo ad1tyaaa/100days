@@ -31,3 +31,9 @@ Important Topics :
 - Memory layout in C / C++.
 
 **Final Thought:** So, today i think I somewhat managed to finished the intended topics, although I counldn't solve coding problems from platforms like LeedCode, etc. I wanted to solve quite a few problems, but, as I sat down for this very late, I'm probably gonna solve problems tomorrow the whole time. I'm still feeling good though, as now I have finally completed Basics of C++, and I can start Data Structures from 25th. 🙃
+
+## day 4 : 24 july 2023
+
+**Progress :** Solved problems from Leetcode, GFG, and CodeStudio. That's It.
+
+**Final Thoughts :** It feels irritating when when u can't solve a problem bucause u made a mistake so small that u had to stare at the screen for 20+ mins to find it. LeetCode #7 and #1009 kind of irritated me. But, I finally managed to solve them, and all other ones too. So, I guess it wasn't that bad afterall. Tomorrow I will finally be starting DSA. And, DSA is the part that I have left in the middle a few too many times in the past. Hopefully I don't do it again this time. 🐼
