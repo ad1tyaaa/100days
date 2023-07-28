@@ -37,3 +37,7 @@ Important Topics :
 **Progress :** Solved problems from Leetcode, GFG, and CodeStudio. That's It.
 
 **Final Thoughts :** It feels irritating when when u can't solve a problem bucause u made a mistake so small that u had to stare at the screen for 20+ mins to find it. LeetCode #7 and #1009 kind of irritated me. But, I finally managed to solve them, and all other ones too. So, I guess it wasn't that bad afterall. Tomorrow I will finally be starting DSA. And, DSA is the part that I have left in the middle a few too many times in the past. Hopefully I don't do it again this time. 🐼
+
+> I didn't do anything for last few days... 😢
+<br> I was working on that godamn project report. 😭😭😭
+<br> Finally it's over, so now i'll focus on it from tomorrow again. 🫤
