@@ -41,3 +41,9 @@ Important Topics :
 > I didn't do anything for last few days... 😢
 <br> I was working on that godamn project report. 😭😭😭
 <br> Finally it's over, so now i'll focus on it from tomorrow again. 🫤
+
+## day 5 : 31 july 2023
+
+**Progress :** Started Arrays (the first data structure). Solved a few problems, and did Linear Search too. Couldn't do Binary Search today. Will do that tomorrow.
+
+**Final Thoughts :** I'm back. Finally... <br> I ended up taking a long break, almost a week, and now, I'm starting it again. Today i did Arrays. It's still a revision so I don't find it tough really. I did till Linear search today, didn't have enought time to cover Binary Search too. Will complete that tomorrow. Honestly, I feel like shit for taking such a long break. 😣
