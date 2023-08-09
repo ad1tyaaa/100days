@@ -57,3 +57,13 @@ Important Topics :
 - Binary Search Optimization for dealing with *overflow case*.
 
 **Final Thoughts :** I skipped again yesterday. And, I'll have to skip the next few days as well as I'm going out of station, and I won't have my laptop. So, I'll probably be back once I return in a few days. As, for today I ended Binary Search. I wanted to do Complexity Analysis as well, but, I thought it would be better to do it after I return. I don't want to go on a break just after studying that. 🐼
+
+## day 7 : 9 August 2023
+
+**Progress :** Did a basic revision of Arrays, and Searching Algorithms. And started vectors. Couldn't finish vectors today.
+
+Important Topics :
+- `memset()` function
+- Designated Initialization
+
+**Final Thoughts :** Hmmm, I have returned back home, and resumed DSA today. I started Vectors today, and well, I'm struggling. Not because it's tough, but, idk. I'm finding sitting and coding for more than an hour tough. I feel like stopping and watching youtube or something when I code. I initially wanted to complete Algorithm Complexity as well today, but, I couldn't sit past 1 hour mark, as I couldn't focus. How do I fix this ? 😣
