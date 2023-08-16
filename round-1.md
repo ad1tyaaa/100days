@@ -67,3 +67,9 @@ Important Topics :
 - Designated Initialization
 
 **Final Thoughts :** Hmmm, I have returned back home, and resumed DSA today. I started Vectors today, and well, I'm struggling. Not because it's tough, but, idk. I'm finding sitting and coding for more than an hour tough. I feel like stopping and watching youtube or something when I code. I initially wanted to complete Algorithm Complexity as well today, but, I couldn't sit past 1 hour mark, as I couldn't focus. How do I fix this ? 😣
+
+## day 8 : 16 August 2023
+
+**Progress :** Solved Coding Problems on Arrays.
+
+**Final Thoughts :** I didn't solve too many problems, but, it felt good to be back. I am going totry my best to be consistent from now on. I solved 5 problems I think. The "Triplet Sum" and "Sort 0 1 2" i'll solve tomorrow. I got stuck in almost every problem today, but, still I think it's going to get better. 🥲
