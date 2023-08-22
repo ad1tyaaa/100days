@@ -73,3 +73,9 @@ Important Topics :
 **Progress :** Solved Coding Problems on Arrays.
 
 **Final Thoughts :** I didn't solve too many problems, but, it felt good to be back. I am going totry my best to be consistent from now on. I solved 5 problems I think. The "Triplet Sum" and "Sort 0 1 2" i'll solve tomorrow. I got stuck in almost every problem today, but, still I think it's going to get better. 🥲
+
+## day 9 : 22 August 2023
+
+**Progress :** Did a revision of everything I studied up until now and solved a bunch of Basic Coding Problems.
+
+**Final Thoughts :** I solved some coding problems today, and also did a revision. Need to be consistent. 😣😣😣
