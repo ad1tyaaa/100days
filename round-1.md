@@ -79,3 +79,15 @@ Important Topics :
 **Progress :** Did a revision of everything I studied up until now and solved a bunch of Basic Coding Problems.
 
 **Final Thoughts :** I solved some coding problems today, and also did a revision. Need to be consistent. 😣😣😣
+
+## Update (09 September 2023)
+
+I have slacked off for 15+ days now. This is what always ends up happening. It starts as skipping 1-2 days, and then becomes a very long time. And then, when I come back, I feel like "I can't remember anything" and "I should start from beginning, again", and the cycle repeats. What do I have to do to get out of this cycle ? 😣
+
+But, anyway I am thinking of continuing after day 9. Maybe, I should just scrap this and start from beginning, but, I want to keep this to remind me how bad simply skipping 1-2 days can become, so I don't do it again. Of course, I know when I open Arrays, where I left, I'm going to feel like a complete Idiot who doesn't remeber anything and I'm going to want to study up until then again. So, I think I'm going to do revision for 2-3 days first, then I'll do day 10.
+
+So, I think I am doing revision of **C++ Basics** for now. After that, I'll continue with #100DaysOfCode.
+
+This starting to become like a journal now. Maybe I'll start writting more in this md-file from now on. Maybe that'll keep me from slacking.
+
+But, for now, that is all.
