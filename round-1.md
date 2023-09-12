@@ -91,3 +91,9 @@ So, I think I am doing revision of **C++ Basics** for now. After that, I'll cont
 This starting to become like a journal now. Maybe I'll start writting more in this md-file from now on. Maybe that'll keep me from slacking.
 
 But, for now, that is all.
+
+## Revision (12 September 2023)
+
+I have been studying basics again and I studied how really C++ works behind the scenes in depth. I got to know a lot about C++ Preprocessing, Compilation process, and Lineing etc. It's actually really interesting. I have also been solving problems. Nothing too difficult, just the ones from "Basics of C++" COding-Ninjas course. I think I'll rervise stuff till day after tomorrow and then I'll cotinue.
+
+Well, that's it for today. I'll update later.
