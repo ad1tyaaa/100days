@@ -97,3 +97,7 @@ But, for now, that is all.
 I have been studying basics again and I studied how really C++ works behind the scenes in depth. I got to know a lot about C++ Preprocessing, Compilation process, and Lineing etc. It's actually really interesting. I have also been solving problems. Nothing too difficult, just the ones from "Basics of C++" COding-Ninjas course. I think I'll rervise stuff till day after tomorrow and then I'll cotinue.
 
 Well, that's it for today. I'll update later.
+
+## revision (18 September 2023)
+
+I have been revising and procrastinating and so revision is over. Tomorrow I'll starrt with day10. I'll do arrays and maybe solve a few Questions. I really want to keep up this time.
