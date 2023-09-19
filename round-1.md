@@ -98,6 +98,12 @@ I have been studying basics again and I studied how really C++ works behind the 
 
 Well, that's it for today. I'll update later.
 
-## revision (18 September 2023)
+## Revision (18 September 2023)
 
 I have been revising and procrastinating and so revision is over. Tomorrow I'll starrt with day10. I'll do arrays and maybe solve a few Questions. I really want to keep up this time.
+
+## day 10 : 18 September 2023
+
+**Progress :** Started with Arrays (again) and solved some coding problems from it too.
+
+**Final Thoughts :** I think it's been a long time since I enjoyed getting my ass kicked by C++ so mouch 😂. Today I started Arrays from the beginning again. And, as I have already done it multiple times in the past, theoretically it's not something I struggle with really, but, I always feel like I am still not there, when I'm solving problems. I can't say that I have finally achieved satisfaction with my problem solving skills in Arrays (well, I got stuck in that 1 problem `3Sum` from Coding Ninjas), but, I think I definitely made some progress. I think with just a little bit more effort I'll finally start feeling satisfied with myself. But, for now, I only want to say one thing - The struggle is not over. yet.
