@@ -113,3 +113,15 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 **Progress :** Continued with solving coding problems in Arrays. Actually I only solved 2 problems. They took a few hours actually.
 
 **Final Thoughts :** Hmmm. `Sort 0 1 2` is easy but, how do I say this... there was one really interesting method to solve it, and one very dumb method to solve it. I spent like half an hour on the interesting method, and got TLE, and the dumb one worked just fine 😢. So, basically, I GOT SCAMMED. Apart from that, I solved `3Sum` from Coding Ninjas as well. I managed to solve it although all testcases didn't pass. It ended up taking 2-3+ hours, and there were a few issues in my logic. I finally managed to finish it, but got TLE in some testcases. I think I'm gonna leave that problem at that. When I learn a few new things I will come back to it I guess. So, yeah that's it for today. I just saw the time, and it's already past 12, and I hadn't updated the repo with day11's progress, so I am doing it now. But, I actually plan to solve two problems from LeetCode too, before I go to sleep. I hope it doesn't take too long.
+
+## day 12 : 21 September 2023
+
+**Progress :** I did Algorithm Complexity yesterday (i studied but i was busy so couldn't update repo). I watched Video Lecture on it. I was very busy so couldn't solve any problems on Time and Space Complexity.
+
+**Final Thoughts :** Well, not enough progress really. I was busy with a bunch of things. 
+
+## day 13 : 22 September 2023
+
+**Progress :** Continued with Algorithm Complexity. Solved problems as well (around 25-30). But, that's it. Again I didn't solve a lot of problems. But, tomorrow I'm gonna start Binary Search. And, I'll spend a lot of time studying and solving problems. I promise. 😓
+
+**Final Thoughts :** Okay, so I think i did give 1.5 hours today, but, I don't think I made too much progress. I just finished Algorithm Complexity. Apart from that I started solving "Problem of the Day" from Coding Ninjas. Well I could only solve the MCQ's today (not even the EASY coding problem 😣😣😣). But, tomorrow I'll do better. I'm atleast happy that now I have started solving those random problems that Coding Ninjas gives. Earlier I used to think I'm not skilled enough to be able to solve any of them, so I didn't try solving them. I hope in a few weeks I become smart enough to solve Medium level questions as well. That's it for today.
