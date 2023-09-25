@@ -137,3 +137,9 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 **Progress :** Continued on and finished Binary Search. And, that's it.
 
 **Final Progress :** So, I still didn't have internet. My mobile data decided to work properly today so I was able to continue, but well, all I did was finish Binary Search (theory part) today. Will solve problems tomorrow. 😢
+
+## day 16 : 25 September
+
+**Progress :** Solved 3 Binary Search problems.
+
+**Final Thoughts :** Internet finally started working today. But, it started working late at night, around 8pm, and I had to work without it before it. After it started working again I went ahead and did a lot of studying. Well, I did put in 3-4 hours today, but, I did all that just to manage to solve 3 LeetCode problems, they were Medium level though. But, i don't know how to feel about this. I am putting the time, but, when I compare the progress with the amount of time, I feel dumb for using up so much time for doing "little ?" 😣😣😣
