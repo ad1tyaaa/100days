@@ -125,3 +125,15 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 **Progress :** Continued with Algorithm Complexity. Solved problems as well (around 25-30). But, that's it. Again I didn't solve a lot of problems. But, tomorrow I'm gonna start Binary Search. And, I'll spend a lot of time studying and solving problems. I promise. 😓
 
 **Final Thoughts :** Okay, so I think i did give 1.5 hours today, but, I don't think I made too much progress. I just finished Algorithm Complexity. Apart from that I started solving "Problem of the Day" from Coding Ninjas. Well I could only solve the MCQ's today (not even the EASY coding problem 😣😣😣). But, tomorrow I'll do better. I'm atleast happy that now I have started solving those random problems that Coding Ninjas gives. Earlier I used to think I'm not skilled enough to be able to solve any of them, so I didn't try solving them. I hope in a few weeks I become smart enough to solve Medium level questions as well. That's it for today.
+
+## day 14 : 23 September
+
+**Progress :** Started Binary Search. Just that. 😓
+
+**Final Thoughts :** I started Bianry Search. There was a youtube video I was watching, and, BAM. My interent was just gone. And, well, my mom forgot to pay intrnet bill, and next day was sunday,  so nothing could've been done about it. Also, mobile data sucks exactly when I need it to work the most. So, yeah I think I studies for some 30-35 mins. And, then I couldn't continue on. 😢
+
+## day 15 : 24 September
+
+**Progress :** Continued on and finished Binary Search. And, that's it.
+
+**Final Progress :** So, I still didn't have internet. My mobile data decided to work properly today so I was able to continue, but well, all I did was finish Binary Search (theory part) today. Will solve problems tomorrow. 😢
