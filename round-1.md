@@ -149,3 +149,10 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 **Progress :** Solved more Binary Search Problems.
 
 **Final Thoughts :** Today I solved more Binary Search Problems. It's not as simple of an approach as it looks in first glance. There actually are a lot of different ways to implement it. I mainly just solved a few problems today (some 2-3...) . But, I got to learn a lot today. Looking forward to tomorrow.
+
+## day 18 ; 27 September
+
+**Progress :** Solved 3-4 Advanced Binary Search Problems like Book Allocation Problem, etc.
+
+**Final Thoughts :** After a long time I'm feeling completely exhausted. I think I spent 5-7 hours understanding and solving Binary Search Problems (Book Allocation Problem, Aggressive Cows, etc.) and honestly, what are these problems...
+I had to spend a lot of time understanding and experimenting with them to properly understand them. And, honestly it's pretty insane, the logic used to solve these problems. I think after spending so much time understanding the approach I am capable to solve these types of problems. but, as I'm completely done for the day, I'm gonna solve some of these problems tomorrow, and then I'm gonna start **Sorting Algorithms**. Let's see how I can do tomorrow. 🫡
