@@ -143,3 +143,9 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 **Progress :** Solved 3 Binary Search problems.
 
 **Final Thoughts :** Internet finally started working today. But, it started working late at night, around 8pm, and I had to work without it before it. After it started working again I went ahead and did a lot of studying. Well, I did put in 3-4 hours today, but, I did all that just to manage to solve 3 LeetCode problems, they were Medium level though. But, i don't know how to feel about this. I am putting the time, but, when I compare the progress with the amount of time, I feel dumb for using up so much time for doing "little ?" 😣😣😣
+
+## day 17 : 26 September
+
+**Progress :** Solved more Binary Search Problems.
+
+**Final Thoughts :** Today I solved more Binary Search Problems. It's not as simple of an approach as it looks in first glance. There actually are a lot of different ways to implement it. I mainly just solved a few problems today (some 2-3...) . But, I got to learn a lot today. Looking forward to tomorrow.
