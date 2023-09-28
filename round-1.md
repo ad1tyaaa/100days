@@ -150,7 +150,7 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 
 **Final Thoughts :** Today I solved more Binary Search Problems. It's not as simple of an approach as it looks in first glance. There actually are a lot of different ways to implement it. I mainly just solved a few problems today (some 2-3...) . But, I got to learn a lot today. Looking forward to tomorrow.
 
-## day 18 ; 27 September
+## day 18 : 27 September
 
 **Progress :** Solved 3-4 Advanced Binary Search Problems like Book Allocation Problem, etc.
 
