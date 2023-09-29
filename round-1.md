@@ -159,6 +159,6 @@ I had to spend a lot of time understanding and experimenting with them to proper
 
 ## day 19 : 28 September 2023
 
-**Progress :** Completed all the basic Sorting Algorithms (Selection Sort, Bubble Sort, and Insertion Sort). I did it all in 1 day (very proud, hehe).
+**Progress :** Completed all the basic Sorting Algorithms (Selection Sort, Bubble Sort, and Insertion Sort). I did it all in 1 day (very proud, hehe 😄).
 
-**Final Thoughts :** So, I'm feeling very happy todayas I managed to complete all the sorting algoeithms. I think I still don't get Insertion sort fully (i'm probably 80/100 in it) but, that's fine I think. Tomorrow I'm planning to maybe revise Insertion sort again, and start with **C++ STL**. So yeah, will come back tomorrow. 😁
+**Final Thoughts :** So, I'm feeling very happy today as I managed to complete all the sorting algorithms. I think I still don't get Insertion sort fully (i'm probably 80/100 in it) but, that's fine I think. Tomorrow I'm planning to maybe revise Insertion sort again, and start with **C++ STL**. So yeah, will come back tomorrow. 😁
