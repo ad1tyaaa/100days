@@ -156,3 +156,9 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 
 **Final Thoughts :** After a long time I'm feeling completely exhausted. I think I spent 5-7 hours understanding and solving Binary Search Problems (Book Allocation Problem, Aggressive Cows, etc.) and honestly, what are these problems...
 I had to spend a lot of time understanding and experimenting with them to properly understand them. And, honestly it's pretty insane, the logic used to solve these problems. I think after spending so much time understanding the approach I am capable to solve these types of problems. but, as I'm completely done for the day, I'm gonna solve some of these problems tomorrow, and then I'm gonna start **Sorting Algorithms**. Let's see how I can do tomorrow. 🫡
+
+## day 19 : 28 September 2023
+
+**Progress :** Completed all the basic Sorting Algorithms (Selection Sort, Bubble Sort, and Insertion Sort). I did it all in 1 day (very proud, hehe).
+
+**Final Thoughts :** So, I'm feeling very happy todayas I managed to complete all the sorting algoeithms. I think I still don't get Insertion sort fully (i'm probably 80/100 in it) but, that's fine I think. Tomorrow I'm planning to maybe revise Insertion sort again, and start with **C++ STL**. So yeah, will come back tomorrow. 😁
