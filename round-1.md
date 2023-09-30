@@ -162,3 +162,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** Completed all the basic Sorting Algorithms (Selection Sort, Bubble Sort, and Insertion Sort). I did it all in 1 day (very proud, hehe 😄).
 
 **Final Thoughts :** So, I'm feeling very happy today as I managed to complete all the sorting algorithms. I think I still don't get Insertion sort fully (i'm probably 80/100 in it) but, that's fine I think. Tomorrow I'm planning to maybe revise Insertion sort again, and start with **C++ STL**. So yeah, will come back tomorrow. 😁
+
+## day 20 : 29 September 2023
+
+**Progrerss :** Completed C++ STL. 😓
+
+**Final Thoughts :** This was very boring. I felt like I'm studying Python actually. Not that I hate python, but, it has so many inbuilt functions, that I used to get irrtated that "I have to remember so much stuff". And, that is exactly what I felt in STL. Well, somehow I finished it. Tomorrow I'll be solving Problems from LeetCode and Coding Ninjas. That's it for today. Gud Nite!
