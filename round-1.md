@@ -168,3 +168,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progrerss :** Completed C++ STL. 😓
 
 **Final Thoughts :** This was very boring. I felt like I'm studying Python actually. Not that I hate python, but, it has so many inbuilt functions, that I used to get irrtated that "I have to remember so much stuff". And, that is exactly what I felt in STL. Well, somehow I finished it. Tomorrow I'll be solving Problems from LeetCode and Coding Ninjas. That's it for today. Gud Nite!
+
+## day 21 : 30 September 2023
+
+**Progress :** Today I solved 1 coding problem on Arrays from Coding Ninjas. That's it.
+
+**Final Thoughts :** Hmmm, IDK why but, for some reason I didn't feel like coding today really. I had planned to do atleast 3 problems today following the course video, but, I started feeling really sleepy while studying. I tried to keep going but, ultimately stopped. I think today I did coding for some 40 minutes only. So, yeah not very good. But, tomorrow I'll finish it. THat's it for today.
