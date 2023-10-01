@@ -174,3 +174,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** Today I solved 1 coding problem on Arrays from Coding Ninjas. That's it.
 
 **Final Thoughts :** Hmmm, IDK why but, for some reason I didn't feel like coding today really. I had planned to do atleast 3 problems today following the course video, but, I started feeling really sleepy while studying. I tried to keep going but, ultimately stopped. I think today I did coding for some 40 minutes only. So, yeah not very good. But, tomorrow I'll finish it. THat's it for today.
+
+## day 22 : 1 October 2023
+
+**Progress :** Finished yesterday's stuff that I had left, and solved 3 more problems.
+
+**Final Thoughts :** So, firstly I finished the problems that I had to yesterday, and then I did 3 more problems. In total, I did 5 problems today. Although, I think i was constantly ignored doing "dry-run" to solve the problems. And, I kind of feel bad about it too, but, maybe it's fine, because I did spend some 15-20 minutes on each problems, but, I wasn't trying to scribble on paper to solve it, but, instead I was staring on the screen. Now, I think a part of the reason I'm feeling bad about it is because whenever I get stuch at a problem I tend to spend hours trying to solve it, which in a lot of cases might be unnecessary and I want to change that so, yeah. Although I think I should use pen-n-paper more, in those 15-20 mins, instead of staring at screen and thinking that somehow if I stare at it hard enough I'll magically find the answer. So, yeah I think that's it. I should keep that in mind from now on. Gud Nite now. 😅
