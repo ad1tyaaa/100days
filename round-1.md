@@ -180,3 +180,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** Finished yesterday's stuff that I had left, and solved 3 more problems.
 
 **Final Thoughts :** So, firstly I finished the problems that I had to yesterday, and then I did 3 more problems. In total, I did 5 problems today. Although, I think i was constantly ignored doing "dry-run" to solve the problems. And, I kind of feel bad about it too, but, maybe it's fine, because I did spend some 15-20 minutes on each problems, but, I wasn't trying to scribble on paper to solve it, but, instead I was staring on the screen. Now, I think a part of the reason I'm feeling bad about it is because whenever I get stuch at a problem I tend to spend hours trying to solve it, which in a lot of cases might be unnecessary and I want to change that so, yeah. Although I think I should use pen-n-paper more, in those 15-20 mins, instead of staring at screen and thinking that somehow if I stare at it hard enough I'll magically find the answer. So, yeah I think that's it. I should keep that in mind from now on. Gud Nite now. 😅
+
+## day 23 : 2 October 2023
+
+**Progress :** Today, I didn't study actually new. I did revision, and tried to solve all the coding problems again.
+
+**Final Thoughts :** Revision is important too. Instead of just going forward everyday, I should keep revising old topics time to time as well. So, I decide to revise by solving all the coding problems. And, I think I solved some 20+ problems again. But, there are still a few remainng. Also, I think I needed to revisit "Binary Search" again, and today I couldn't do that, so, I'm gonna do that tomorrow. Also, there is one coding contest exam paper that I wanted to solve, so that also, I'll do tomorrow. Slow and Steady wins the Race!!! 😁
