@@ -186,3 +186,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** Today, I didn't study actually new. I did revision, and tried to solve all the coding problems again.
 
 **Final Thoughts :** Revision is important too. Instead of just going forward everyday, I should keep revising old topics time to time as well. So, I decide to revise by solving all the coding problems. And, I think I solved some 20+ problems again. But, there are still a few remainng. Also, I think I needed to revisit "Binary Search" again, and today I couldn't do that, so, I'm gonna do that tomorrow. Also, there is one coding contest exam paper that I wanted to solve, so that also, I'll do tomorrow. Slow and Steady wins the Race!!! 😁
+
+## day 24 : 4 October 2023
+
+**Progress :** Today I continued revision. I could only do 1 qquestion i think, and then I got stuck in the next question, and then again on the next question, and then I got so irritated that I stopped. I still havn't managed to complete everything. But, I'm gonna leave revision at that for now.
+
+**Final Thoughts :** So, first of all, yesterday I didn't study. So, that breaks the streak. But, I don't want to mind that too much. Secondly, revisions becomes so boring after some time (seriously). I am still stuck on the Binary Search Revision, but, I'm thinking of leaving revision for now, and continuing on with *Character Arrays and Strings*, the next topic. I think I should revise Binary Search again, in a proper way. So, just-solve-problems-and-go approach is not gonna work just yet with it, and trying that felt like I'm just pointlessly dragging it, and wasting the time I couldv'e spent studying. So, next time, when I do Revision, it's going to be Binary Search, and I'm going to do it properly. Tomorrow I'll start Arrays. So yeah that's it. 😓
