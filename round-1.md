@@ -204,3 +204,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 I have returned home today morning and I'll be continuing my 100days from today. I plan to finish as much of Stirngs part as possible as it is quite a lengthy lecture. But, hopefully by tomorrow I'll definitely be able to finish it. Also, the last "**Update**" was on 9th of Sept., ie. exactly a month back (what a coincidence!). So, yeah I as feeling kind of scared going for convocation, as I don't have a job and I would've met everyone who is already working somewhere, but, it turned out to be actually fun. 😅
 
 But, yeah still a lot of work is left, and I'm gonna start from today itself. Let's GOOO!!! 😁
+
+## day 26 : 09 October 2023
+
+**Progress :** Continued with Character Arrays and Strings. Tomorrow I'll be bale to finish it definitely.
+
+**Final Thoughts :** It feels nice to be back. I think I couldv'e put more time, but, I should start preparing for sleep. I want to get up early from tomorrow. I finished half of the lecture and also solved around 5-7 problems today. I will definitely finish it tomorrow. Looking forward to it. 😁
