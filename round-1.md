@@ -198,3 +198,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** So, mainly I started Character Arrays and Strings, but, couldn't study for too long. Probably 30-40 mins only. I think I solved 2-3 easy problems.
 
 **Final Tohoghts :** I'm going out of station for a few days. I have to go back to college for my convocation. So, I probably won't be getting enough time for studying. Today, I started Character Arrays and Strings, although I couldn't spend much time, I don't think it's very difficult. I was actually finding stuffs easy. Hopefully I manage to finish it soon, after I continu with day 26. 🫤
+
+## Update (09 October 2023)
+
+I have returned home today morning and I'll be continuing my 100days from today. I plan to finish as much of Stirngs part as possible as it is quite a lengthy lecture. But, hopefully by tomorrow I'll definitely be able to finish it. Also, the last "**Update**" was on 9th of Sept., ie. exactly a month back (what a coincidence!). So, yeah I as feeling kind of scared going for convocation, as I don't have a job and I would've met everyone who is already working somewhere, but, it turned out to be actually fun. 😅
+
+But, yeah still a lot of work is left, and I'm gonna start from today itself. Let's GOOO!!! 😁
