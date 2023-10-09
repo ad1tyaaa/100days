@@ -192,3 +192,9 @@ I had to spend a lot of time understanding and experimenting with them to proper
 **Progress :** Today I continued revision. I could only do 1 qquestion i think, and then I got stuck in the next question, and then again on the next question, and then I got so irritated that I stopped. I still havn't managed to complete everything. But, I'm gonna leave revision at that for now.
 
 **Final Thoughts :** So, first of all, yesterday I didn't study. So, that breaks the streak. But, I don't want to mind that too much. Secondly, revisions becomes so boring after some time (seriously). I am still stuck on the Binary Search Revision, but, I'm thinking of leaving revision for now, and continuing on with *Character Arrays and Strings*, the next topic. I think I should revise Binary Search again, in a proper way. So, just-solve-problems-and-go approach is not gonna work just yet with it, and trying that felt like I'm just pointlessly dragging it, and wasting the time I couldv'e spent studying. So, next time, when I do Revision, it's going to be Binary Search, and I'm going to do it properly. Tomorrow I'll start Arrays. So yeah that's it. 😓
+
+## day 25 : 5 October 2023
+
+**Progress :** So, mainly I started Character Arrays and Strings, but, couldn't study for too long. Probably 30-40 mins only. I think I solved 2-3 easy problems.
+
+**Final Tohoghts :** I'm going out of station for a few days. I have to go back to college for my convocation. So, I probably won't be getting enough time for studying. Today, I started Character Arrays and Strings, although I couldn't spend much time, I don't think it's very difficult. I was actually finding stuffs easy. Hopefully I manage to finish it soon, after I continu with day 26. 🫤
