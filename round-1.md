@@ -210,3 +210,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Continued with Character Arrays and Strings. Tomorrow I'll be bale to finish it definitely.
 
 **Final Thoughts :** It feels nice to be back. I think I couldv'e put more time, but, I should start preparing for sleep. I want to get up early from tomorrow. I finished half of the lecture and also solved around 5-7 problems today. I will definitely finish it tomorrow. Looking forward to it. 😁
+
+## day 27 : 10 October 2023
+
+**Progress :** Continued on with Strings. It's still not over. 😣
+
+**Final Thoughts :** It starting to bore me. I don't want to start skipping again. Today I wanted to finish the lecture, but, I feel like I'm dragging it. Will finish Strings tomorrow. I think only some 20-25 mins of the lecture is remaining, but, Strings might become a topic I should revise again. I don't feel confident enough. I think I should try to create the inbuilt string functions on my own. But, let's finish this first tomorrow. Then, I'll decide what I want to do about it. 🫤🫤🫤
