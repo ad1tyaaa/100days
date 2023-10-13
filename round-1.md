@@ -216,3 +216,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Continued on with Strings. It's still not over. 😣
 
 **Final Thoughts :** It starting to bore me. I don't want to start skipping again. Today I wanted to finish the lecture, but, I feel like I'm dragging it. Will finish Strings tomorrow. I think only some 20-25 mins of the lecture is remaining, but, Strings might become a topic I should revise again. I don't feel confident enough. I think I should try to create the inbuilt string functions on my own. But, let's finish this first tomorrow. Then, I'll decide what I want to do about it. 🫤🫤🫤
+
+## day 28 : 13 October 2023
+
+**Progress :** Started Strings from beginning again, and finished half of it.
+
+**Final Thoughts :** Sp, I skipped for 2 days. Well, I think I didn't want to complete Strings. I had almost completed it, but, I wasn't felinig very good about it, I was feeling very inconfident. So, I just didn't study. I mean, I was procrastinating, but, mainly I didn't want to finish this in a half-assed way, and go forward, so, I was deciding weather Is tart from beginning or carry on. And, well, as I didn't want to just carry on, I ultimately decided to do Strings again. And, well, I have started feeling confident now. I have done half of the lecture today, and am confident that I'll finish the other half tomorrow. So, yeah that's it. Finally Strings will be over. 😊
