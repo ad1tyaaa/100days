@@ -222,3 +222,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Started Strings from beginning again, and finished half of it.
 
 **Final Thoughts :** So, I skipped for 2 days. Well, I think I didn't want to complete Strings. I had almost completed it, but, I wasn't felinig very good about it, I was feeling very inconfident. So, I just didn't study. I mean, I was procrastinating, but, mainly I didn't want to finish this in a half-assed way, and go forward, so, I was deciding weather I start from beginning or carry on. And, well, as I didn't want to just carry on, I ultimately decided to do Strings again, took 2 days in deciding that. I have started feeling confident now. I have done half of the lecture today, and am confident that I'll finish the other half tomorrow. So, yeah that's it. Finally Strings will be over. 😊
+
+## day 29 : 14 October 2023
+
+**Progress :** There are 4 more problems left in Strings. It's not over yet, but, tomorrow definitely it'll be over.
+
+**Final Thoughts :** So, strings is still not over. I did say I'll finish it today, but, I decided to do in-built stirng functions properly, in a very in-depth way, and so I have properly been studying and making notes baout them. There are still around 10 functions remaining. And, after that I'll just finish the 4 remaining problems and strings will finally be over. So, I think tomorrow is the day, and even though I couldn't finish the goal I set yesterday, I'm very happy with today's progress. 😁
