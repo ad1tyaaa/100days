@@ -228,3 +228,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** There are 4 more problems left in Strings. It's not over yet, but, tomorrow definitely it'll be over.
 
 **Final Thoughts :** So, strings is still not over. I did say I'll finish it today, but, I decided to do in-built stirng functions properly, in a very in-depth way, and so I have properly been studying and making notes baout them. There are still around 10 functions remaining. And, after that I'll just finish the 4 remaining problems and strings will finally be over. So, I think tomorrow is the day, and even though I couldn't finish the goal I set yesterday, I'm very happy with today's progress. 😁
+
+## day 30 : 17 October 2023
+
+**Progress :** Finally finished Strings. 😣
+
+**Final Thoughts :** First of all, I did study the last two days as well, I just didn't update the repo. Second, Stirngs are finally over, and I.m so done with them. I think strings is a really irritating topic, even though it doesn't seem irritation at first. I'm just glad it's over. Although, I'm scared that 2-D arrays, which is the next topic is going to be even more irritating. But, let's see. L did study last two days too. But, I was so irritated while studying that I kinda don;t want to count them. I did  put 2-3 hors everyday for last 3 days but, I couldn't cover enough material, so yeah, I'm just going to make today day30. Now I'll go. 😓
