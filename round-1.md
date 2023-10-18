@@ -234,3 +234,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Finally finished Strings. 😣
 
 **Final Thoughts :** First of all, I did study the last two days as well, I just didn't update the repo. Second, Stirngs are finally over, and I.m so done with them. I think strings is a really irritating topic, even though it doesn't seem irritation at first. I'm just glad it's over. Although, I'm scared that 2-D arrays, which is the next topic is going to be even more irritating. But, let's see. L did study last two days too. But, I was so irritated while studying that I kinda don;t want to count them. I did  put 2-3 hors everyday for last 3 days but, I couldn't cover enough material, so yeah, I'm just going to make today day30. Now I'll go. 😓
+
+## day 31 : 18 October 2023
+
+**Progress :** I started 2-D arrays today. Completed most of it.
+
+**FInal Thoughts :** I started 2-D arrays, and completed most of it. All that is left is Binary Search in 2-D array. I'll finish that tomorrow. There are also a few problems that I have to solve (Spiral Print, and Rotate Matrix). So, yeah that's it. 🙃
