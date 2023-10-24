@@ -246,3 +246,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Completed Strings finally.
 
 **Final Thoughts :** So, I have finally finished Strings, and now I'm done with Arrays. FINALLY!!! Soooo, happy. Next I'm gonna do Maths for DSA and then Phase - 1 over for the course. 😁
+
+## day 33 : 21 October 2023
+
+**Progress :** I did half of Maths for DSA lecture. Well, it was boring so, I ....    slept in the middle of it. 😓
+
+**Final Thoughts :** Good Morning. I'll finish it tomorrow. 🥴
