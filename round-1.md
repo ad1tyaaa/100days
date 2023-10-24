@@ -240,3 +240,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** I started 2-D arrays today. Completed most of it.
 
 **FInal Thoughts :** I started 2-D arrays, and completed most of it. All that is left is Binary Search in 2-D array. I'll finish that tomorrow. There are also a few problems that I have to solve (Spiral Print, and Rotate Matrix). So, yeah that's it. 🙃
+
+## day 32 : 19 October 2023
+
+**Progress :** Completed Strings finally.
+
+**Final Thoughts :** So, I have finally finished Strings, and now I'm done with Arrays. FINALLY!!! Soooo, happy. Next I'm gonna do Maths for DSA and then Phase - 1 over for the course. 😁
