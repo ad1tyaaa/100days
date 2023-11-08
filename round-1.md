@@ -260,3 +260,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Final Thoughts :** So, first of all, yesterday I didn't study I had to do my packing as I was going for a few days. I was coming from one home toanother, so, I can continue studying. No, trouble with that this time. And, for day before yesterday, well, I fell asleep. I didn't sleep properly day before, and so, I ended up sleeping while studying. My bad. But, I decided to start Maths for DSA from the beginning today. And, I could've finished it so early, if not for that dumb glitch. C++ error messages are really the worst. I managed to fix the code ultimately, but, I still don't understand what that bug was even. So, I did finish the lecture, but, I have quite a bit of homework. I'm gonna take a break now as phase-I si finally over. And, after that I'll start with Pointers. I know I have been irregular lately, and, well, It doesn't have a bad reason, I am not feeling really unsatisfied with progress. But, yeah I should be more regular, and that is exactly what I'm gonna do. But, I think right now I should enjoy the milestone so, I'll be abck in a few days. How many days ? I'll  decide it later. 😄😂.
 
 ***See Yaaa!     soon.***
+
+## day 35 : 07 November 2023
+
+**Progress :** Started Pinters. Watched first video.
+
+**Final Thoughts :** I am back. I took too long. I know, I'm sorry. I planned to take off 4-5 days. Then I kept procrastinating. But, I've finally returned. I'll try to be regular again. Also, I'm thinking, From now, I am gonna try to revise old topics more. Like, i think "Binary Search" still is incomplete. So, I'm gonna try and find time to do that as well. But, today I started Pointers. I completed first lecture. Tomorrow I'll do second. I don't know if I should make some kind of notes for it, I'm already good at pointers, so. I think I'll write something. See you tomorrow. 🫤
