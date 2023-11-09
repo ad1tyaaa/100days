@@ -266,3 +266,9 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Started Pinters. Watched first video.
 
 **Final Thoughts :** I am back. I took too long. I know, I'm sorry. I planned to take off 4-5 days. Then I kept procrastinating. But, I've finally returned. I'll try to be regular again. Also, I'm thinking, From now, I am gonna try to revise old topics more. Like, i think "Binary Search" still is incomplete. So, I'm gonna try and find time to do that as well. But, today I started Pointers. I completed first lecture. Tomorrow I'll do second. I don't know if I should make some kind of notes for it, I'm already good at pointers, so. I think I'll write something. See you tomorrow. 🫤
+
+## day 36 : 08 November 2023
+
+**Progress :** Today, well I thought I'll do second part of Pointers, but, I redid part-1. And, made notes about it.
+
+**Final Thoughts :** So, now I'll do the part-2 tomorrow. That's all. I can't think of writting anything else. So, See you tomorrow.
