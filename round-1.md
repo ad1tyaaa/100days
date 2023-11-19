@@ -272,3 +272,7 @@ But, yeah still a lot of work is left, and I'm gonna start from today itself. Le
 **Progress :** Today, well I thought I'll do second part of Pointers, but, I redid part-1. And, made notes about it.
 
 **Final Thoughts :** So, now I'll do the part-2 tomorrow. That's all. I can't think of writting anything else. So, See you tomorrow.
+
+## Update (19 Novemeber 2023)
+
+So, I havn't been updating the repository for some 10 days. And, It isn't that I havn't been studying, but, rather I keep sleeping on updating the repo. So, I am going to update the repo starting now. I think instead of updating the repo for last 10 days, all at once, I'm going to do it day-by-day. I only want to make 2-3 commits everyday. That's why.
