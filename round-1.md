@@ -281,4 +281,10 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 
 **Progress :** Started the 2nd video in Pointers. Couldn't complete it.
 
-**Final Thoughts :** So, I started the Pointers second video, did Array with Pointers. 
+**Final Thoughts :** So, I started the Pointers second video, did Array with Pointers.
+
+## day 38 : 10 November 2023
+
+**Progress :** Finished 2nd lecture of Pointers.
+
+**Final Thoughts :** Finished 2nd lecture in Pointers. Completed Charachter Arrays, and Function with Pointers.
