@@ -288,3 +288,9 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 **Progress :** Finished 2nd lecture of Pointers.
 
 **Final Thoughts :** Finished 2nd lecture in Pointers. Completed Charachter Arrays, and Function with Pointers.
+
+## day 39 : 11 November 2023
+
+**Progress :** Completed Pointer-to-Pointer (Double Pointer), and solved a lot of MCQ-type problems.
+
+**Final THoughts :** I 3rd lecture, and all of Pointers with it. Next is Dynamic Memort Allocation.
