@@ -300,3 +300,9 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 **Progress :** Completed Reference Variables, and Dynamic Memory Allocation.
 
 **Final Thoughts :** I finished Reference Variable and Dynamic Memory Allocation. Next is Macros, Inline Functions, etc. The following lecture is about a few small easy topics. Looking forward to it.
+
+## day 41 : 13 November 2023
+
+**Progress :** Did Dynamic Memory Allocation again, and, also revised Pointers, and solved problems from it.
+
+**Final Thoughts :** I redid Dynamic Memory Allocation, and revised Pointers again. I think I am going to revise it again.
