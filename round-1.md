@@ -306,3 +306,9 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 **Progress :** Did Dynamic Memory Allocation again, and, also revised Pointers, and solved problems from it.
 
 **Final Thoughts :** I redid Dynamic Memory Allocation, and revised Pointers again. I think I am going to revise it again.
+
+## day 42 : 14 November 2023
+
+**Progress :** Did lecture on Macros, Global variables, Default Arguments, etc.
+
+**Final Thoughts :** I finished the lecture that contains small topics like Global Variables, Macros, Default Arguments, etc. I will be doing a revision of Pointer and then move to Recursions.
