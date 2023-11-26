@@ -318,3 +318,18 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 **Progress :** Did a revision of Pointers and related topics. That's it.
 
 **FInal Thoguhts :** I did not study for a couple of days, as I wasn't well. But, Today I started revision of Pointers. I will continue doing Pointers Revision for 1-2 more days, before I start Recursion.
+
+## Update (27 November 2023)
+
+So, I have been studying for the last few days, but, I have struggle with being regular once again. I started Recursions, even. I hadn't been updating the repository, and that partly was as well contributing to me slaking off, I think. I decided that I will revise Arrays, and solve it's problems as well, and I'll do it while studying new topics. ut, I havn't been able to manage 2-3 things instead of just 1 proprly. 
+
+Right now, I want to continue studying DSA, and revise old topics (ones I'm not too confident in), and also solve COding Problems. But, I have been strugging with that. And, I also started doing Kotlin language as well. It's not something I have to put too much time in, but, I feel drained after doing only a little bit of studying, and then I don't do all the things I planned to do. And, has been the biggest problem with my studying, I think. I have to find out how I'm supposed to fix that. 
+
+I am thinking I'll list out what are the things I first of all want to do :
+- Revise sorting algorithms, before I start with recutrsions, as I know there are going be a few new sorting algorithms I'll learn in Recursions. **I want to do this before I start Recursions**
+- Revise entirety of Array, I think the toughest part in it is still going to be Binary Search. 😣
+- If possible look into this Energy Drain thing. How do I prevent it from happening so fast...
+
+So, that's the things I can think of right now. Maybe, I remember someting later. I'll update the repo then. That's it for now. I'm going to start doing a revision, firstly of Sorting Algorithms, from today. And, even though I did start rcursions, I'll start from recursions once again. This'll also end the backlog on my repo.
+
+That's it for now.
