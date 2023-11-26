@@ -312,3 +312,9 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 **Progress :** Did lecture on Macros, Global variables, Default Arguments, etc.
 
 **Final Thoughts :** I finished the lecture that contains small topics like Global Variables, Macros, Default Arguments, etc. I will be doing a revision of Pointer and then move to Recursions.
+
+## day 43 : 17 November 2023
+
+**Progress :** Did a revision of Pointers and related topics. That's it.
+
+**FInal Thoguhts :** I did not study for a couple of days, as I wasn't well. But, Today I started revision of Pointers. I will continue doing Pointers Revision for 1-2 more days, before I start Recursion.
