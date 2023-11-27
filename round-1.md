@@ -333,3 +333,5 @@ I am thinking I'll list out what are the things I first of all want to do :
 So, that's the things I can think of right now. Maybe, I remember someting later. I'll update the repo then. That's it for now. I'm going to start doing a revision, firstly of Sorting Algorithms, from today. And, even though I did start rcursions, I'll start from recursions once again. This'll also end the backlog on my repo.
 
 That's it for now.
+
+> I have finished doing Sorting algorithm. All 3 of them. Binary Search is still left. I feel like I may just leave it. and focus on problem solving.
