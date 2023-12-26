@@ -345,3 +345,7 @@ It's night, and, well I did do revision of Sorting Aglorithms, but, nothing else
 ## Today is 26 December.
 
 I havn't started Recursions yet. I took a really very big gap. I shouldn't have let this happen. Let's start from today. Properly. I am going to be seriously continue, and finish the 100 Days. Starting now.
+
+## day 44 : 26 December 2023
+
+Technically, it's 27th December now, as it's 2'o' clock at night, but, I did Recursion Day-1 and 2 videos today. Solved the few simple basic Recursion Problems, like Counting to `n`, Findinf Power of 2, and Factorial, etc. Tomorrow (i mean today) I'll start and finish Recursion day-3.
