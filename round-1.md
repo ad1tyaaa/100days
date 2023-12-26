@@ -341,3 +341,7 @@ That's it for now.
 So, I'm going to start Recursions today. I think I'll do the first video atleast. But, I want to see if I can do 2 videos. Yesterday, at night, I did a very quick full revision of Arrays. I'm starting to revise Sorting Algorithms, and then I'll probably do Binary Search (just the basics, I'm thinking). After that I'll start wwith Recursions. I have also been studying Kotlin programming language, on the side. For like a week. I am thinking weather I should update the repo with Kotlin stuff as well or not. I'm not very sure about it for now, but, I'll decide.
 
 It's night, and, well I did do revision of Sorting Aglorithms, but, nothing else. So, I'll actually start Recursions tomorrow now. Or, if I can't sleep I may change my mind. But, until then, that's it for now.
+
+## Today is 26 December.
+
+I havn't started Recursions yet. I took a really very big gap. I shouldn't have let this happen. Let's start from today. Properly. I am going to be seriously continue, and finish the 100 Days. Starting now.
