@@ -349,3 +349,11 @@ I havn't started Recursions yet. I took a really very big gap. I shouldn't have 
 ## day 44 : 26 December 2023
 
 Technically, it's 27th December now, as it's 2'o' clock at night, but, I did Recursion Day-1 and 2 videos today. Solved the few simple basic Recursion Problems, like Counting to `n`, Findinf Power of 2, and Factorial, etc. Tomorrow (i mean today) I'll start and finish Recursion day-3.
+
+## day 45 : 27 December 2023
+
+Today I did Recursion day-3. (Once again, it's actually 28th December now as it's past 12'o clock) I felt like I'm not actually in the Zone while studying. I felt like I should start fresh again, but, I think I'm going to just stop paying attention to these indications, adn I'm going to just go ahead and see what happens. I thinks I may have been paying too mush unnecessay attention to the pointless things. And, it has also affected my efficiency to a great extent too. But, well, there is a lot of Home-Work first of all. It's is going to take some serious amount of time. I have to solve all Array Problems using Recursions, specially Binary Search Problems. The problems, I didn't solve all binary Search problems in the first place. So, let's see if tomorrow I'll be able to start with day-4 or not. Weather I can do day-4 tomorrow or not, I'll definitely spend a lot of time solving Array Problems, using Recursions. So, that's it for today.
+
+Now, apart from DSA, I also studied Git today. I have been studying it as well since yesterday. And, honestly, I have always found it difficult. I have seen a lot of toutorials, and stuff, and they have been good toutorials too I think, but, none of them have managed to make me feel that Git is a piece of cake, ut, I've been learning Git using the fireship course I must say, it's definitely a piece-of-cake. I'm really enjoying doing it. Also, I think I'm going to be able to finish it in a couple of days.
+
+Also, I think I'm going to try to write to repo before 12 tomorrow. For now, that's it. Good Night.
