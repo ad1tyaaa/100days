@@ -6,7 +6,8 @@
 
 **Progress :** Started revision of C++ basics from the beginning. Wrote a few basic programs as well. And, revised a few important theory topics.
 
-Important Topics : 
+Important Topics :
+
 - `char` datatype (ASCII and extended ASCII representation of `char` and `unsigned char`)
 - *Storing* and *Reading* positive and negative numbers in memory
 - `bool` type (reprentation, and **Negation** behavior).
@@ -18,6 +19,7 @@ Important Topics :
 **Progress :** Revised Operators (including Bitwise that took some time), then moved onto conditional statements, and loops, and finally solved some 10-15 problems (easy ones) on them.
 
 Important Topics :
+
 - Important Bitwise Operations and their rules and tricks.
 
 **Final Thought:** Hmmm, honestly I feel bad for today's progress. I think I covered quite less than what I intended. I also couldn't really focus very well. I have an important report that I have to work on and I spent most of the time getting scared abut how I'm going to finish it on time. 😢
@@ -27,6 +29,7 @@ Important Topics :
 **Progress :** Revised Bitwise Shift Operators (i forgot to study it yesterday), Functions, Memory layout of C, switch statement, and solved a few basic problems of Functions. Solved an easy problem from LeetCode as well.
 
 Important Topics :
+
 - Result of applying `>>` (right shift operator) on **negative** numbers, (*it makes them positive numebrs*).
 - Memory layout in C / C++.
 
@@ -53,6 +56,7 @@ Important Topics :
 **Progress :** Continued on with Arrays, and did Binary Search. Also, solved a few problems. I found out that we can use XOR operations to swap 2 numbers. I didn't know that.
 
 Important Topics :
+
 - Different ways to `swap()` two numbers.
 - Binary Search Optimization for dealing with *overflow case*.
 
@@ -63,6 +67,7 @@ Important Topics :
 **Progress :** Did a basic revision of Arrays, and Searching Algorithms. And started vectors. Couldn't finish vectors today.
 
 Important Topics :
+
 - `memset()` function
 - Designated Initialization
 
@@ -118,7 +123,7 @@ I have been revising and procrastinating and so revision is over. Tomorrow I'll 
 
 **Progress :** I did Algorithm Complexity yesterday (i studied but i was busy so couldn't update repo). I watched Video Lecture on it. I was very busy so couldn't solve any problems on Time and Space Complexity.
 
-**Final Thoughts :** Well, not enough progress really. I was busy with a bunch of things. 
+**Final Thoughts :** Well, not enough progress really. I was busy with a bunch of things.
 
 ## day 13 : 22 September 2023
 
@@ -321,11 +326,12 @@ So, I havn't been updating the repository for some 10 days. And, It isn't that I
 
 ## Update (27 November 2023)
 
-So, I have been studying for the last few days, but, I have struggle with being regular once again. I started Recursions, even. I hadn't been updating the repository, and that partly was as well contributing to me slaking off, I think. I decided that I will revise Arrays, and solve it's problems as well, and I'll do it while studying new topics. ut, I havn't been able to manage 2-3 things instead of just 1 proprly. 
+So, I have been studying for the last few days, but, I have struggle with being regular once again. I started Recursions, even. I hadn't been updating the repository, and that partly was as well contributing to me slaking off, I think. I decided that I will revise Arrays, and solve it's problems as well, and I'll do it while studying new topics. ut, I havn't been able to manage 2-3 things instead of just 1 proprly.
 
-Right now, I want to continue studying DSA, and revise old topics (ones I'm not too confident in), and also solve COding Problems. But, I have been strugging with that. And, I also started doing Kotlin language as well. It's not something I have to put too much time in, but, I feel drained after doing only a little bit of studying, and then I don't do all the things I planned to do. And, has been the biggest problem with my studying, I think. I have to find out how I'm supposed to fix that. 
+Right now, I want to continue studying DSA, and revise old topics (ones I'm not too confident in), and also solve COding Problems. But, I have been strugging with that. And, I also started doing Kotlin language as well. It's not something I have to put too much time in, but, I feel drained after doing only a little bit of studying, and then I don't do all the things I planned to do. And, has been the biggest problem with my studying, I think. I have to find out how I'm supposed to fix that.
 
 I am thinking I'll list out what are the things I first of all want to do :
+
 - Revise sorting algorithms, before I start with recutrsions, as I know there are going be a few new sorting algorithms I'll learn in Recursions. **I want to do this before I start Recursions**
 - Revise entirety of Array, I think the toughest part in it is still going to be Binary Search. 😣
 - If possible look into this Energy Drain thing. How do I prevent it from happening so fast...
@@ -342,7 +348,7 @@ So, I'm going to start Recursions today. I think I'll do the first video atleast
 
 It's night, and, well I did do revision of Sorting Aglorithms, but, nothing else. So, I'll actually start Recursions tomorrow now. Or, if I can't sleep I may change my mind. But, until then, that's it for now.
 
-## Today is 26 December.
+## Today is 26 December
 
 I havn't started Recursions yet. I took a really very big gap. I shouldn't have let this happen. Let's start from today. Properly. I am going to be seriously continue, and finish the 100 Days. Starting now.
 
