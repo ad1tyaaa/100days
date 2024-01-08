@@ -369,3 +369,9 @@ Also, I think I'm going to try to write to repo before 12 tomorrow. For now, tha
 Happy New Year!!!
 
 So, I have been studying Git for last few days, but, DSA not so much. I did solve all Array Problems using Recursions, today. But, Binary Search Problems are still remaining (13 of them). I am going to do those problems tomorrow. And, probably day after tomorrow, I'll start with next video.
+
+## Update (09.01.2024)
+
+So, I have been trying to revise and finally be done with Binary Search and Recursion (BS part) for last few days. I havn't been studying everyday, but, when I did, I thought that maybe this time, I'll really be done with Binary Search for good. But, I was Wrong. I still have trouble with it and as a result I get stuck. And, then, I stay stucked there, and days pass 😓. So, I think it's better to move forward. I managed to solve a few Binary Search Problems using Recursions properly, and have understood how Recursion works in Binary Search. So, today I'm going to start with the next toutorial, in day `47`.
+
+And, THIS TIME I'm REALLY GOING TO BE **REGULAR**.
