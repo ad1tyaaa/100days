@@ -375,3 +375,7 @@ So, I have been studying Git for last few days, but, DSA not so much. I did solv
 So, I have been trying to revise and finally be done with Binary Search and Recursion (BS part) for last few days. I havn't been studying everyday, but, when I did, I thought that maybe this time, I'll really be done with Binary Search for good. But, I was Wrong. I still have trouble with it and as a result I get stuck. And, then, I stay stucked there, and days pass 😓. So, I think it's better to move forward. I managed to solve a few Binary Search Problems using Recursions properly, and have understood how Recursion works in Binary Search. So, today I'm going to start with the next toutorial, in day `47`.
 
 And, THIS TIME I'm REALLY GOING TO BE **REGULAR**.
+
+## day 47 : 09 January 2023
+
+Just finished Recursion-day04, and now I'm updating the repo. There are homework problems that I'll do now. Today, I basically solved 4 question, 2 from Strings, 1 of Exponentiation (using recursion), which was really very interesting. And, last was bubble sort using recursion. I have to do Insertion and Selection Sort using recursion as well. Looking forward to tomorrrow.
