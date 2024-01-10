@@ -379,3 +379,8 @@ And, THIS TIME I'm REALLY GOING TO BE **REGULAR**.
 ## day 47 : 09 January 2023
 
 Just finished Recursion-day04, and now I'm updating the repo. There are homework problems that I'll do now. Today, I basically solved 4 question, 2 from Strings, 1 of Exponentiation (using recursion), which was really very interesting. And, last was bubble sort using recursion. I have to do Insertion and Selection Sort using recursion as well. Looking forward to tomorrrow.
+
+
+## day 48 : 10 January 2023
+
+I'm 10 mins late to update the repo. Okay, I am not gonna lie, I didn't study the new topic properly today. I was actually doing yesterday's homework. And, so I wrote the code for Sleection Sort, Insertion Sort, and Bubble Sort recursively. And, Then I slacked of till 11:30 (night), and then sat down for studying as day was almost over. And, I did watch the whole video but, I couldn't grasp the concept peoperly. I think tomorrow I'm going to do it again, and solve the "Merge 2 Sorted Arrays" problem. That's it for today.
