@@ -384,3 +384,9 @@ Just finished Recursion-day04, and now I'm updating the repo. There are homework
 ## day 48 : 10 January 2023
 
 I'm 10 mins late to update the repo. Okay, I am not gonna lie, I didn't study the new topic properly today. I was actually doing yesterday's homework. And, so I wrote the code for Sleection Sort, Insertion Sort, and Bubble Sort recursively. And, Then I slacked of till 11:30 (night), and then sat down for studying as day was almost over. And, I did watch the whole video but, I couldn't grasp the concept peoperly. I think tomorrow I'm going to do it again, and solve the "Merge 2 Sorted Arrays" problem. That's it for today.
+
+## day 49 : 11 January 2023
+
+So, today was a long day. I properly did Merge Sort, and in the process i ended up spending 6-8 hours, because for few logical errors. I finally managed to fix them, and I can't tell how amazing it finally felt after I managed to fix the issues. So, as a result of that Merge Sort was all I could do today. And, there are some homework that I will do and tomorrow I think I'm going to start Quick Sort.
+
+It's 11:55 at night. (made this commit just in time. 😂)
