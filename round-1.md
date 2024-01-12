@@ -380,7 +380,6 @@ And, THIS TIME I'm REALLY GOING TO BE **REGULAR**.
 
 Just finished Recursion-day04, and now I'm updating the repo. There are homework problems that I'll do now. Today, I basically solved 4 question, 2 from Strings, 1 of Exponentiation (using recursion), which was really very interesting. And, last was bubble sort using recursion. I have to do Insertion and Selection Sort using recursion as well. Looking forward to tomorrrow.
 
-
 ## day 48 : 10 January 2023
 
 I'm 10 mins late to update the repo. Okay, I am not gonna lie, I didn't study the new topic properly today. I was actually doing yesterday's homework. And, so I wrote the code for Sleection Sort, Insertion Sort, and Bubble Sort recursively. And, Then I slacked of till 11:30 (night), and then sat down for studying as day was almost over. And, I did watch the whole video but, I couldn't grasp the concept peoperly. I think tomorrow I'm going to do it again, and solve the "Merge 2 Sorted Arrays" problem. That's it for today.
@@ -390,3 +389,23 @@ I'm 10 mins late to update the repo. Okay, I am not gonna lie, I didn't study th
 So, today was a long day. I properly did Merge Sort, and in the process i ended up spending 6-8 hours, because for few logical errors. I finally managed to fix them, and I can't tell how amazing it finally felt after I managed to fix the issues. So, as a result of that Merge Sort was all I could do today. And, there are some homework that I will do and tomorrow I think I'm going to start Quick Sort.
 
 It's 11:55 at night. (made this commit just in time. 😂)
+
+## day 50 : 12 January 2023
+
+I think today, after a very long time I'm actually not running against time to study or make the commit. I generally used to make the commit a day or even two later sometimes, as I used to study late at night , after technically the day had passed, or to maintain daily commits in the repo, or sometimes I would jest be lazy about making the commit. Not, to mention all the gaps. I mean it was supposed to be 100 days of code. But, considering I started July last year, it's way past 100 days. And, I'm done with 50 days only today.
+
+I don't know if I should cry or joke about it. 😢😢
+
+But, more importantly I'm halfway there. And, I have been terribly irregular these 50 days. Hopefully, I am more desciplined by the end of the 100 days. I have came to realize a lot of things in all these months. Figured out a lot of my mistakes, and biggest one is not wanting to solve them. Some of the times, I would exactly know what I'm doing wrong (I'm not talking about the code) and know what I should do to fix it, but, I won't do that.
+
+But, I think the most important thing I've realized is that it's got less to do with motivation, and more with descipline. So, yeah I think atleast I now know why I want to finish my 100 days. I want to leasn DSA, but, I want to become a desciplined person while doing so. That's the important part. I know I'm very irregular and very indesciplined as I am now, but, everyone has to start somewhere... someday.
+
+And, I think for me it's today. Atleast today is the day I'm finally writting about this.
+
+Coming to the "WHAT I STUDIED TODAY ?", I finished Quick Sort. I sat down to study and yeah, I got got stuck i tne middle multiple times, but, I managed to finish it. I also finished yeasterday's homeworks. I have some to do today. I think I'll do that tomorrow, and then start with the next topic. I forgot the name, but, I'll do the next topic tomorrow.
+
+> It's the completion of my 50th day, and I really want to write this (it's kinda cringe), so I'm gonna write it
+>
+> I may have been a test player up until now, but, oneday I'll be a T20 player as well. Just keep working hard.
+
+🎊🥳🎉🥳🎊
