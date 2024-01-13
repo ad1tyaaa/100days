@@ -409,3 +409,11 @@ Coming to the "WHAT I STUDIED TODAY ?", I finished Quick Sort. I sat down to stu
 > I may have been a test player up until now, but, oneday I'll be a T20 player as well. Just keep working hard.
 
 🎊🥳🎉🥳🎊
+
+## day 51 :13 January 2023
+
+I have completed the next lecture. It was a problem solving session although a very important one I think. I solved 2 problems today, the Subsets of an Array problem, and Subsequesnces of a String problem. Basically, now I know how to solve problems where I have to find all combinations of a Array / String or any other similar thing. So, I think I did learn a lot today. Although, I don't feel too happy about it. I got reminded that maybe right now, I'm wasting my time by doing this. Maybe I'm wasting time because I'm very slow. But, am I really wasting my time by deciding to not care about doing a job just yet. Am I really wasting my time by focusing on studying andgetting better in waht I want to do.
+
+I can't say becoming a software engineer is my goal. It honestly isn't. I've never been able to think about in a "where do i want to work?" way. But, I am studying this and working on it everyday because one day I want to have enough understanding of computers, so that I can build one all by myself. I want to become a person who just usderstands completely how a computer works. THat's all I want. And, that's not going to be getting me a jo. But, I think while working towars it, at some point I'll have enough knowledge that I might manage to get a job at some company.
+
+So, I going to keep continuing what I'm doing, but, I don't know what to do when someone says I'm amking a mistake and I don't have anything to proe to them that I'm not. Or, maybe, I really am making a mistake. Who knows...
