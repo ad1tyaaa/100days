@@ -421,3 +421,7 @@ So, I going to keep continuing what I'm doing, but, I don't know what to do when
 ## day 52 : 14 January 2023
 
 I have completed the next lecture today. I didn't study a lot today (atleast not till now), but as I have finished today's task, i'm updating the repo. I did LeetCode - 177 (Phone Keypad Recursion Problem). I think I'm going to study other things now, after I update the repo. Also, once again I'm updating a bit late. It's almost 10'o' clock. But, I had finished studying in the afternoon itself. I didn't update the repo because I thought I'll revise the lecture once more before updating. And, well I done with that now. So, yeah that's it for today. Now, I'll continue with next lecture tomorrow. It's again a problem solving session.
+
+## day 53 : 15 January 2023
+
+I have done it again 😢. I didn't update the repo on time. It's 1'o'clock, the next day. I totally forgot about updating the repo. I did finish studying very early only, but thought I'll revise again in the evening and then update the repo. And, after I revised I forgot about it. I won't do it again. 😢😢
