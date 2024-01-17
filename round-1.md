@@ -425,3 +425,11 @@ I have completed the next lecture today. I didn't study a lot today (atleast not
 ## day 53 : 15 January 2023
 
 I have done it again 😢. I didn't update the repo on time. It's 1'o'clock, the next day. I totally forgot about updating the repo. I did finish studying very early only, but thought I'll revise again in the evening and then update the repo. And, after I revised I forgot about it. I won't do it again. 😢😢
+
+## day 54 : 17 January
+
+I didn't update the repo yesterday. So, I didn't sleep the whole night the day before, and as a result I selpt whole day yesterday. I did sit down and studied, and solved "Rat in a Maze" problem (although I'm not getting the correct reult, it's almost correct) at night, but It was past 12, so thought I'll udate the repo next day only. And, today I finished the next lecture that was about Time and Space Complexity of Recursive Algorithms. So, whith that Recursions is finally over. 
+
+Now, the thing is, I thought if I finish Recursions, I am basically not a novice anymore, I'll reach Intermediate level once I finish Recursions, but, honestly, I don't feel any difference. I feel like I was dumb before, I am going to be dumb after as well. So, IDK what to do about it. Guess, I just have to solve a lot of problems. So, yeah that's it for today. I would generally take a break as I have finished something important, but, I don't want to do anythin like that. I'm going to start OOPS straingt away, from tomorrow.
+
+Also, I'm 20 mins late. 😓
