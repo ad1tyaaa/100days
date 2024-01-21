@@ -437,3 +437,7 @@ Also, I'm 20 mins late. 😓
 ## Update : 21 January 2024
 
 So, I had to go out of station and I forgot my laptop at home 😢. So, I couldn't study DSA and update the repo for the last 2-3 days. I was studying Operating Systems doring this time though. It didn't need me to write any code so. But, now I finally have my laptop so I'll update the repo today. I'm studying OOPS now.
+
+## day 55 : 21 January 2024
+
+I started OOPS today. I have finished OOPS lecture till Constructors. The lecture isn't over yet, but, as it is large I am going to finish it by tomorrow. And, Then there is 1 more lecture before I am done with OOPS. I am thinking in next 2-3 days I'll be done with it. That's it for today.
