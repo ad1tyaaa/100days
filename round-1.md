@@ -376,21 +376,21 @@ So, I have been trying to revise and finally be done with Binary Search and Recu
 
 And, THIS TIME I'm REALLY GOING TO BE **REGULAR**.
 
-## day 47 : 09 January 2023
+## day 47 : 09 January 2024
 
 Just finished Recursion-day04, and now I'm updating the repo. There are homework problems that I'll do now. Today, I basically solved 4 question, 2 from Strings, 1 of Exponentiation (using recursion), which was really very interesting. And, last was bubble sort using recursion. I have to do Insertion and Selection Sort using recursion as well. Looking forward to tomorrrow.
 
-## day 48 : 10 January 2023
+## day 48 : 10 January 2024
 
 I'm 10 mins late to update the repo. Okay, I am not gonna lie, I didn't study the new topic properly today. I was actually doing yesterday's homework. And, so I wrote the code for Sleection Sort, Insertion Sort, and Bubble Sort recursively. And, Then I slacked of till 11:30 (night), and then sat down for studying as day was almost over. And, I did watch the whole video but, I couldn't grasp the concept peoperly. I think tomorrow I'm going to do it again, and solve the "Merge 2 Sorted Arrays" problem. That's it for today.
 
-## day 49 : 11 January 2023
+## day 49 : 11 January 2024
 
 So, today was a long day. I properly did Merge Sort, and in the process i ended up spending 6-8 hours, because for few logical errors. I finally managed to fix them, and I can't tell how amazing it finally felt after I managed to fix the issues. So, as a result of that Merge Sort was all I could do today. And, there are some homework that I will do and tomorrow I think I'm going to start Quick Sort.
 
 It's 11:55 at night. (made this commit just in time. 😂)
 
-## day 50 : 12 January 2023
+## day 50 : 12 January 2024
 
 I think today, after a very long time I'm actually not running against time to study or make the commit. I generally used to make the commit a day or even two later sometimes, as I used to study late at night , after technically the day had passed, or to maintain daily commits in the repo, or sometimes I would jest be lazy about making the commit. Not, to mention all the gaps. I mean it was supposed to be 100 days of code. But, considering I started July last year, it's way past 100 days. And, I'm done with 50 days only today.
 
@@ -410,7 +410,7 @@ Coming to the "WHAT I STUDIED TODAY ?", I finished Quick Sort. I sat down to stu
 
 🎊🥳🎉🥳🎊
 
-## day 51 : 13 January 2023
+## day 51 : 13 January 2024
 
 I have completed the next lecture. It was a problem solving session although a very important one I think. I solved 2 problems today, the Subsets of an Array problem, and Subsequesnces of a String problem. Basically, now I know how to solve problems where I have to find all combinations of a Array / String or any other similar thing. So, I think I did learn a lot today. Although, I don't feel too happy about it. I got reminded that maybe right now, I'm wasting my time by doing this. Maybe I'm wasting time because I'm very slow. But, am I really wasting my time by deciding to not care about doing a job just yet. Am I really wasting my time by focusing on studying andgetting better in waht I want to do.
 
@@ -418,15 +418,15 @@ I can't say becoming a software engineer is my goal. It honestly isn't. I've nev
 
 So, I going to keep continuing what I'm doing, but, I don't know what to do when someone says I'm amking a mistake and I don't have anything to proe to them that I'm not. Or, maybe, I really am making a mistake. Who knows...
 
-## day 52 : 14 January 2023
+## day 52 : 14 January 2024
 
 I have completed the next lecture today. I didn't study a lot today (atleast not till now), but as I have finished today's task, i'm updating the repo. I did LeetCode - 177 (Phone Keypad Recursion Problem). I think I'm going to study other things now, after I update the repo. Also, once again I'm updating a bit late. It's almost 10'o' clock. But, I had finished studying in the afternoon itself. I didn't update the repo because I thought I'll revise the lecture once more before updating. And, well I done with that now. So, yeah that's it for today. Now, I'll continue with next lecture tomorrow. It's again a problem solving session.
 
-## day 53 : 15 January 2023
+## day 53 : 15 January 2024
 
 I have done it again 😢. I didn't update the repo on time. It's 1'o'clock, the next day. I totally forgot about updating the repo. I did finish studying very early only, but thought I'll revise again in the evening and then update the repo. And, after I revised I forgot about it. I won't do it again. 😢😢
 
-## day 54 : 17 January 2023
+## day 54 : 17 January 2024
 
 I didn't update the repo yesterday. So, I didn't sleep the whole night the day before, and as a result I selpt whole day yesterday. I did sit down and studied, and solved "Rat in a Maze" problem (although I'm not getting the correct reult, it's almost correct) at night, but It was past 12, so thought I'll udate the repo next day only. And, today I finished the next lecture that was about Time and Space Complexity of Recursive Algorithms. So, whith that Recursions is finally over.
 
@@ -434,6 +434,6 @@ Now, the thing is, I thought if I finish Recursions, I am basically not a novice
 
 Also, I'm 20 mins late. 😓
 
-## Update : 21 January 2023
+## Update : 21 January 2024
 
 So, I had to go out of station and I forgot my laptop at home 😢. So, I couldn't study DSA and update the repo for the last 2-3 days. I was studying Operating Systems doring this time though. It didn't need me to write any code so. But, now I finally have my laptop so I'll update the repo today. I'm studying OOPS now.
