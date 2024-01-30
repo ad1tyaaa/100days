@@ -441,3 +441,7 @@ So, I had to go out of station and I forgot my laptop at home 😢. So, I couldn
 ## day 55 : 21 January 2024
 
 I started OOPS today. I have finished OOPS lecture till Constructors. The lecture isn't over yet, but, as it is large I am going to finish it by tomorrow. And, Then there is 1 more lecture before I am done with OOPS. I am thinking in next 2-3 days I'll be done with it. That's it for today.
+
+## Update (again) 31 January 2024
+
+Again I have started lagging with this. I shouldn't be doing this. I should be consistent. Afterall, updating the repo takes just under 5 minutes. Well, firstly, I'll add a new day's entry in yesterday's date. I have finished OOPS. I'll update the repo with it's entry. And, then I think today I'll start with Linked-Lists.
