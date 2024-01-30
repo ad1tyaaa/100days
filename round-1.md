@@ -445,3 +445,7 @@ I started OOPS today. I have finished OOPS lecture till Constructors. The lectur
 ## Update (again) 31 January 2024
 
 Again I have started lagging with this. I shouldn't be doing this. I should be consistent. Afterall, updating the repo takes just under 5 minutes. Well, firstly, I'll add a new day's entry in yesterday's date. I have finished OOPS. I'll update the repo with it's entry. And, then I think today I'll start with Linked-Lists.
+
+## day 56 : 30 January 2024
+
+I havn't updated the repo in some time. I don't have anything to say really. I've just been procrastinating, with very little study. But, I finally finished OOPS, so I'm updating the repo. Next I'll start with OOPS.
