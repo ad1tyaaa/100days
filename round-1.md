@@ -449,3 +449,13 @@ Again I have started lagging with this. I shouldn't be doing this. I should be c
 ## day 56 : 30 January 2024
 
 I havn't updated the repo in some time. I don't have anything to say really. I've just been procrastinating, with very little study. But, I finally finished OOPS, so I'm updating the repo. Next I'll start with OOPS.
+
+## day 57 : 01 February 2024
+
+So... Linked Lists are hard. SOMEBODY HELPPP!!!! 😢
+
+I started Linked List, yesterday itself (I couldn't update repo as I had to reset my whole computer) because Windows sucks. But, I did start the video which, first of all, is 2.5 hours, and could only manage like 10-12 minutes, because after that I couldn't understand things properly. But, then I sat to study again today. And, I've watched the first 25 minutes of the video 5-7 times, and still there are things I can;t understand. So, I'm gonna continue from here tomorrow. I had thought I'll atleast be able to finish till 1 hour, but, I think this 1 video itself may take a week. We'll see. Also, let me say the kicker, after this there are 9 more videos in Linked Lists. So, I have no idea how many days this is going to be...
+
+Anyways, that's it for today. 😢😢
+
+Made it just in time today.
