@@ -459,3 +459,11 @@ I started Linked List, yesterday itself (I couldn't update repo as I had to rese
 Anyways, that's it for today. 😢😢
 
 Made it just in time today.
+
+## Update : Last few Commits
+
+So, after I reinstalled Windows and reinstalled everything on it again. I didn't check everything assuming things will just work. But, as it's windows I'm talking about ofc nothing works properly. My VS Code is behaving strage with it's workspaces, and worst of all git was misbehaving. For some reason it won't register the username and email I use.
+
+I only fond this out after I commited and pushed yesterday and then today. Instead of showing up as my commits they show up with both username and email set to `=` on github. And, a mojority my time got wasted fixing that, and other windows isuues I don;t even want to get started on.
+
+But, well, atleast as I finally managed to fix git I can update the repo normally.
