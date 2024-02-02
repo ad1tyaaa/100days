@@ -467,3 +467,7 @@ So, after I reinstalled Windows and reinstalled everything on it again. I didn't
 I only fond this out after I commited and pushed yesterday and then today. Instead of showing up as my commits they show up with both username and email set to `=` on github. And, a mojority my time got wasted fixing that, and other windows isuues I don;t even want to get started on.
 
 But, well, atleast as I finally managed to fix git I can update the repo normally.
+
+## day 58 : 02 February 2024
+
+So, today a lot of my time got wasted. But, I still tried to put time and study LL. I was really struggling with it till yesterday, so, I decided to first do a little bit of a refresher of Pointers & DMA. Andm honestly, after that when I started making Heap & Stach diagrams fo everything and then tried to study things made a lot more sense. I still have issues thoughm but, I think I did manage to make good progress today. I finally understood Traversal, Insertion & Printing LL. I still have a small doublt in Insertion in Middle part of LL, but, I'm thinking I'll do it tomorrow, and I'll also do Deletion in LL, and then finally start with Doubly LLs. Looking forward to it. 😊
