@@ -471,3 +471,8 @@ But, well, atleast as I finally managed to fix git I can update the repo normall
 ## day 58 : 02 February 2024
 
 So, today a lot of my time got wasted. But, I still tried to put time and study LL. I was really struggling with it till yesterday, so, I decided to first do a little bit of a refresher of Pointers & DMA. Andm honestly, after that when I started making Heap & Stach diagrams fo everything and then tried to study things made a lot more sense. I still have issues thoughm but, I think I did manage to make good progress today. I finally understood Traversal, Insertion & Printing LL. I still have a small doublt in Insertion in Middle part of LL, but, I'm thinking I'll do it tomorrow, and I'll also do Deletion in LL, and then finally start with Doubly LLs. Looking forward to it. 😊
+
+
+## day 59 : 04 February 2024
+
+I didn't study DSA yesterday. I was studying for GATE. But well, today I continued with LL. And, LL is hard all right. I think I should have finished singly LL on 2nd only. Today I counldn't complete it. It was feeliing incomplete. I completed the video till the end of Singly LL, but, I think I'm going to be doing singly LL again on my own, writting the functions and everything by own intuition. Hopefully then I'll have decent understanding of it. I am feeling that tomorrow I'll be able to understand everything about Singly LL. That's it for today. Gud Night. 🥲
