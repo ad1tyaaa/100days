@@ -4,6 +4,8 @@ I have joined the #100DaysOfCode challenge.
 
 This repo keeps the progress.
 
-THE JOURNEY TO FIN THE MISSING PIECE. 🥲
+## FINDING THE MISSING PIECE
+
+THE JOURNEY TO FIND THE MISSING PIECE. 🥲
 
 💣
