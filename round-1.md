@@ -476,3 +476,13 @@ So, today a lot of my time got wasted. But, I still tried to put time and study 
 ## day 59 : 04 February 2024
 
 I didn't study DSA yesterday. I was studying for GATE. But well, today I continued with LL. And, LL is hard all right. I think I should have finished singly LL on 2nd only. Today I counldn't complete it. It was feeliing incomplete. I completed the video till the end of Singly LL, but, I think I'm going to be doing singly LL again on my own, writting the functions and everything by own intuition. Hopefully then I'll have decent understanding of it. I am feeling that tomorrow I'll be able to understand everything about Singly LL. That's it for today. Gud Night. 🥲
+
+## Update : Hiatus ? (I want to find the **missing piece**)
+
+So, I have been doing this for 6+ months now, although I've only amanged to reach close to 60 days. I do think I have made some progress. But, still given the timeframe that it has taken. And today, it kind of hit me when I thought about it. When I started, I thought if I manage to finish Recursions, then I'll definitely be a lot better than from when I was just starting with "hello world", and though I've passed that point if I'm being really honest, I don't feel anything different. I still feel like the same dumb guy who started this journey with "hello world". There is nothing different, even after finished till 60 days. I mean even to this day, I feel like this has turned into a habit. It shouldv'e roght ? I've been at it for more than 6 months now. Sure, I've been very inconsistent, but I have tried to do it. The 500+ lines of this document are the proof. But, I've gotten nowhere. 
+
+The biggest thing really is that, I don't know if I'll ever be the guy I want to be if I just keep doing this. Atleast, there should have been some kind of sign ?
+
+And, the thing is even now, I don't think it's all just useless. It's either that, or I'm terribly hopeless. But, what all this really makes me feel is a very simple thing. And, I might just be wrong about this, but, I think there is just one really small piece to this, somethng that should have been very easy to fin and put in place but, I've overlooked it. And, if I just manage to find that one small thing out, I'd have achieved it. 
+
+So, I think for now, I should take a break. Not, procrastinate. I'm probably going to be studying LL from myCodeSchool's youtube videos on Data Structures. I think Love Babbar's video on LL is bad. Atleast, for me it is. So, I'm gonna learn LL elsewhere. Hopefully, I resume 100days in a few days and it doesn't become another of my procrastination vacations. And, most importantly, I hope I find the missing piece.
